@@ -1,3 +1,5 @@
+#buat file .env isi file dibawah ini
+
 MINIO_ROOT_USER=xxx #(user_login
 MINIO_ROOT_PASSWORD=xxx #password_login
 MINIO_STORAGE_PATH=/mnt/minio-storage #dir file
